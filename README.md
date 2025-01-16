@@ -23,3 +23,6 @@ type=waving&color=1E90FF&height=120&section=header"/>
 
 ---
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com//in/denis-lemos-von-ancken-75a003196/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?
+type=waving&color=1E90FF&height=120&section=header"/>
